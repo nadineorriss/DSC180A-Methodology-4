@@ -1,3 +1,25 @@
+<style>
+  :root {
+    --pink1: #ff8ec7;
+    --pink2: #ff6fa9;
+    --pink3: #e91e63;
+    --bg: #fff7fb;
+    --text: #222;
+  }
+  body { background: var(--bg); color: var(--text); line-height: 1.6; }
+  a { color: var(--pink3); }
+  .btn { background: var(--pink3); border-color: var(--pink3); }
+  /* Cayman theme header override */
+  .page-header {
+    background-image: linear-gradient(120deg, var(--pink1), var(--pink2)) !important;
+    background-color: var(--pink2) !important;
+  }
+  .project-name, .project-tagline { color: #fff !important; text-shadow: 0 1px 0 rgba(0,0,0,.1); }
+  /* Cards & code */
+  pre, code { background: #ffe3f0; }
+  .main-content h1, .main-content h2, .main-content h3 { color: #b30059; }
+</style>
+
 ---
 layout: default
 title: Methodology Assignment 4
