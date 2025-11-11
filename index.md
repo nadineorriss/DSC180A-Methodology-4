@@ -1,3 +1,8 @@
+---
+layout: default
+title: Methodology Assignment 4
+---
+
 <style>
   :root {
     --pink1: #ff8ec7;
@@ -19,11 +24,6 @@
   pre, code { background: #ffe3f0; }
   .main-content h1, .main-content h2, .main-content h3 { color: #b30059; }
 </style>
-
----
-layout: default
-title: Methodology Assignment 4
----
 
 **Name:** Nadine Orriss  
 **UCSD Email:** norriss@ucsd.edu  
@@ -48,3 +48,4 @@ Throughout Quarter 1, I have already begun refining our approach by focusing on 
 
 **What other techniques would you be interested in using in your project?**  
 I would like to incorporate analytical and statistical techniques that strengthen the foundation of the discrete event simulation and support more rigorous evaluation of policy changes. Queueing models could serve as theoretical references for patient flow and help validate the simulated results. Monte Carlo sensitivity analysis would make it possible to test how small changes in arrival rates or service times affect overall outcomes. In addition, Bayesian modeling could allow comparisons across different hospital sites while accounting for uncertainty in the data. These methods would make the simulation more interpretable, reproducible, and aligned with real operational dynamics.  
+
