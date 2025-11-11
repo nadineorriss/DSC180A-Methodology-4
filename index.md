@@ -3,8 +3,6 @@ layout: default
 title: Methodology Assignment 4
 ---
 
-# Methodology Assignment 4 — Reflections
-
 **Name:** Nadine Orriss  
 **UCSD Email:** norriss@ucsd.edu  
 **Section + Mentor:** B08 — Aaron Boussina and Dr. Karandeep Singh
