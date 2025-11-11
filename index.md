@@ -5,7 +5,7 @@ title: Methodology Assignment 4
 
 **Name:** Nadine Orriss  
 **UCSD Email:** norriss@ucsd.edu  
-**Section + Mentor:** B08 — Aaron Boussina and Dr. Karandeep Singh
+**Section + Mentor:** B08, Aaron Boussina and Dr. Karandeep Singh
 
 ---
 
